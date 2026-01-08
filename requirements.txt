@@ -1,0 +1,7 @@
+requests
+networkx
+folium
+gradio
+ratelimit
+python-dotenv
+
